@@ -21,14 +21,15 @@
 - GIT/GitHub
 - Visual Studio Code
 
-# Education
-- Udemy
+# 👩‍🎓 Education
+- Salesforce Trailhead, Admin and Developer
+- DataCamp, Machine learning
 - Vladimir State University, Master of Engineering (M.S.), Electrical engineer 
 
 # 📫 How to reach me:
 - mail.suvorova.o@gmail.com
 - <a href='https://www.linkedin.com/in/suvorovaoxana/'>Linkedin</a>
-- <a href='https://trailblazer.me/id/suvorova'><img src='/assets/salesforce-trailhead-logo.png' width='18' height='18'> Salesforce Trailblazer</a>
+- <a href='https://trailblazer.me/id/suvorova'><img src='/assets/salesforce-trailhead-logo.png' width='20' height='18'> Salesforce Trailblazer</a>
 
 <!--
 Here are some ideas to get you started:
