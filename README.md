@@ -28,7 +28,7 @@
 # 📫 How to reach me:
 - mail.suvorova.o@gmail.com
 - <a href='https://www.linkedin.com/in/suvorovaoxana/'>Linkedin</a>
-- <a href='https://trailblazer.me/id/suvorova'><img src='/assets/1591199421818.jpg'> Salesforce Trailblazer</a>
+- <a href='https://trailblazer.me/id/suvorova'><img src='/assets/salesforce-trailhead-logo.png' width='18' height='18'> Salesforce Trailblazer</a>
 
 <!--
 Here are some ideas to get you started:
