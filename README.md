@@ -8,7 +8,7 @@
 # Technologies that I used
 
 ## Languages & Frameworks:
-- JavaScript (https://www.codewars.com/users/manoolk/badges/micro) 
+- JavaScript https://www.codewars.com/users/manoolk/badges/micro
 - Python
 	- PyTorch
 	- Pandas
@@ -22,7 +22,7 @@
 
 ## Other
 - GIT/GitHub
-- Visual Studio Code
+- Visual Studio Code 
 
 # 👩‍🎓 Education
 - Salesforce Trailhead, Admin and Developer
