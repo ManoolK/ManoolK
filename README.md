@@ -8,7 +8,7 @@
 # Technologies that I used
 
 ## Languages & Frameworks:
-- JavaScript <img src="https://www.codewars.com/users/manoolk/badges/micro">
+- JavaScript (https://www.codewars.com/users/manoolk)<img src="https://www.codewars.com/users/manoolk/badges/micro">
 - Python
 	- PyTorch
 	- Pandas
