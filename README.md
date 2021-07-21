@@ -8,7 +8,7 @@
 # Technologies that I used
 
 ## Languages & Frameworks:
-- JavaScript [Code Wars](https://www.codewars.com/users/manoolk)<img src="https://www.codewars.com/users/manoolk/badges/micro">
+- JavaScript
 - Python
 	- PyTorch
 	- Pandas
@@ -32,7 +32,8 @@
 # 📫 How to reach me:
 - <mail.suvorova.o@gmail.com>
 - [LinkedIn](https://www.linkedin.com/in/suvorovaoxana/)  
-- <a href='https://trailblazer.me/id/suvorova'><img src='/assets/expeditioner.png' width='32' height='17'> Salesforce Trailblazer</a>
+- [Salesforce Trailblazer](https://trailblazer.me/id/suvorova)<img src='/assets/expeditioner.png' width='32' height='17'>
+- [Code Wars](https://www.codewars.com/users/manoolk)<img src="https://www.codewars.com/users/manoolk/badges/micro">
 
 <!--
 Here are some ideas to get you started:
