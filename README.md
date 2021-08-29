@@ -25,9 +25,9 @@
 - Visual Studio Code 
 
 # 👩‍🎓 Education
-- [Salesforce Trailhead](https://trailblazer.me/id/suvorova), Admin and Developer <img src='/assets/expeditioner.png' width='32' height='17'>
+- [Salesforce Trailhead](https://trailblazer.me/id/suvorova), **Admin and Developer | Trailhead Ranger** <img src='/assets/ranger.png' width='32' height='17'>
 - DataCamp, Machine learning
-- Vladimir State University, Master of Engineering (M.S.), Electrical engineer  
+- Vladimir State University, **Master of Engineering (M.S.), Electrical engineer**  
 - [Code Wars](https://www.codewars.com/users/manoolk) <img src="https://www.codewars.com/users/manoolk/badges/micro">
 
 # 📫 How to reach me:
