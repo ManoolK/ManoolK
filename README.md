@@ -12,6 +12,7 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 <div align="center">
 	<img src='/assets/app_builder.png' height='100' alt="Platform App Builder">
 	<img src='/assets/administrator.png' height='100' alt="Administrator">
+	<img src='/assets/Developer_Super_Set.webp' height='100' alt="Developer Super Set">
 </div>
 
 # Technologies that I use
@@ -26,7 +27,7 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 - CSS/SASS
 
 ## Database
-- SQl
+- SQL
 - SOQL/SOSL
 - MySQL
 - Postgres
@@ -47,8 +48,11 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 - <mail.suvorova.o@gmail.com>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suvorovaoxana) 
 
-<!--# 📊 GitHub Stats -->
-
+<!-- # 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManoolK&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManoolK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div> -->
 
 
 <!--
