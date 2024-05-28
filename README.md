@@ -12,7 +12,7 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 <div align="center">
 	<img src='/assets/app_builder.png' height='100' alt="Platform App Builder">
 	<img src='/assets/administrator.png' height='100' alt="Administrator">
-	<img src='/assets/Developer_Super_Set.webp' height='100' alt="Developer Super Set">
+	<img src='/assets/Developer_Super_Set.png' height='100' alt="Developer Super Set">
 </div>
 
 # Technologies that I use
