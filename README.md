@@ -1,16 +1,20 @@
 
 # Hi there, I am Oxana Suvorova 
 
-I am a Certified Salesforce Professional with a passion for efficiency and solving complex business problems. Having spent over 10 years in the development and administration of CRM enterprise systems I have strong analytical skills and an interest in transitioning to the Salesforce ecosystem.
+I am a Certified Salesforce Professional with a passion for efficiency and solving complex business problems. Having spent over 10 years in the development and administration of CRM enterprise systems I have strong analytical skills and a solid foundation in the Salesforce ecosystem.
 
-🌱 I’m currently learning Salesforce Development and JavaScript.
+🌱 Salesforce Developer. Apex, Lightning Web Components, JavaScript and Flows.
 <!-- 🔭 I’m currently working on the [DGI-Portfolio Project](https://github.com/ManoolK/DGI-Portfolio). -->
 
 ⚡ Fun fact: Outside of my passion for Salesforce, I enjoy hiking, traveling, and board gaming.
 
-<!-- # About me -->
+# ☁ Salesforce Credentials
+<div align="center">
+	<img src='/assets/app_builder.png' height='100' alt="Platform App Builder">
+	<img src='/assets/administrator.png' height='100' alt="Administrator">
+</div>
 
-# Technologies that I used
+# Technologies that I use
 
 ## Languages & Frameworks:
 - Apex
@@ -23,7 +27,7 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 
 ## Database
 - SQl
-- SOQL
+- SOQL/SOSL
 - MySQL
 - Postgres
 
@@ -32,7 +36,8 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 - Visual Studio Code 
 
 # 👩‍🎓 Education 
-- [Salesforce Trailhead](https://www.salesforce.com/trailblazer/suvorova), **Salesforce Developer | Trailhead Triple Star Ranger** <img src='/assets/triple-star-ranger.png' width='32' height='17'> **| 41 Superbadges**
+- [Salesforce Trailhead](https://www.salesforce.com/trailblazer/suvorova), **Trailhead Four Star Ranger** <img src='/assets/four-star-ranger.png' height='20'> **| 41 Superbadges**
+- **Cloud Code Academy** Salesforce Developer Kickstart Program
 - **radWomen** Intro to Coding (Part I)
 - DataCamp, Machine learning
 - Vladimir State University, **Master of Engineering (M.S.), Electrical engineer**  
@@ -40,9 +45,11 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 
 # 📫 How to reach me:
 - <mail.suvorova.o@gmail.com>
-- [LinkedIn](https://www.linkedin.com/in/suvorovaoxana/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suvorovaoxana) 
 
-[![](https://visitcount.itsvg.in/api?id=ManoolK&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<!--# 📊 GitHub Stats -->
+
+
 
 <!--
 Here are some ideas to get you started:
