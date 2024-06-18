@@ -10,6 +10,7 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 
 # ☁ Salesforce Credentials
 <div align="center">
+	<img src='/assets/Platform-Developer-I.png' height='100' alt="Platform Developer I">
 	<img src='/assets/app_builder.png' height='100' alt="Platform App Builder">
 	<img src='/assets/administrator.png' height='100' alt="Administrator">
 	<img src='/assets/Developer_Super_Set.png' height='100' alt="Developer Super Set">
