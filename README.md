@@ -40,7 +40,7 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 
 # 👩‍🎓 Education 
 - [Salesforce Trailhead](https://www.salesforce.com/trailblazer/suvorova), **Trailhead Four Star Ranger** <img src='/assets/four-star-ranger.png' height='20'> **| 41 Superbadges**
-- **Cloud Code Academy** <img src='/assets/CCA - Dark Background - Alumni.png' height='100' alt="Cloud Code Academy Alumni"> Salesforce Developer Kickstart Program
+- **Cloud Code Academy** <img src='/assets/CCA - Dark Background - Alumni.png' alt="Cloud Code Academy Alumni"> Salesforce Developer Kickstart Program
 - **radWomen** Intro to Coding (Part I)
 - DataCamp, Machine learning
 - Vladimir State University, **Master of Engineering (M.S.), Electrical engineer**  
