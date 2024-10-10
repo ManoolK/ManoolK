@@ -1,9 +1,9 @@
 
 # Hi there, I am Oxana Suvorova 
 
-I am a Certified Salesforce Professional with a passion for efficiency and solving complex business problems. Having spent over 10 years in the development and administration of CRM enterprise systems I have strong analytical skills and a solid foundation in the Salesforce ecosystem.
+I am a Certified Salesforce Developer with a passion for efficiency and solving complex business problems. Having spent over 10 years in the development and administration of CRM enterprise systems I have strong analytical skills and a solid foundation in the Salesforce ecosystem.
 
-🌱 Salesforce Developer. Apex, Lightning Web Components, Lightning Web Runtime, JavaScript, HTML, and Flows.
+🌱 Full-stack Salesforce Developer: Apex, Lightning Web Components, Lightning Web Runtime, JavaScript, HTML, and Flows.
 <!-- 🔭 I’m currently working on the [DGI-Portfolio Project](https://github.com/ManoolK/DGI-Portfolio). -->
 
 ⚡ Fun fact: Outside of my passion for Salesforce, I enjoy hiking, skiing, traveling, and board gaming.
@@ -39,8 +39,8 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 - Visual Studio Code 
 
 # 👩‍🎓 Education 
-- [Salesforce Trailhead](https://www.salesforce.com/trailblazer/suvorova), **Trailhead Four Star Ranger** <img src='/assets/four-star-ranger.png' height='20'> **| 41 Superbadges**
-- **Cloud Code Academy** <img src='/assets/CCA - Dark Background - Alumni.png' alt="Cloud Code Academy Alumni"> Salesforce Developer Kickstart Program
+- [Salesforce Trailhead](https://www.salesforce.com/trailblazer/suvorova), **Trailhead Four Star Ranger** <img src='/assets/four-star-ranger.png' height='40'> **| 41 Superbadges**
+- **Cloud Code Academy** <img src='/assets/CCA - Dark Background - Alumni.png' height='40' alt="Cloud Code Academy Alumni"> Salesforce Developer Kickstart Program
 - **radWomen** Intro to Coding (Part I)
 - DataCamp, Machine learning
 - Vladimir State University, **Master of Engineering (M.S.), Electrical engineer**  
