@@ -3,10 +3,10 @@
 
 I am a Certified Salesforce Professional with a passion for efficiency and solving complex business problems. Having spent over 10 years in the development and administration of CRM enterprise systems I have strong analytical skills and a solid foundation in the Salesforce ecosystem.
 
-🌱 Salesforce Developer. Apex, Lightning Web Components, JavaScript and Flows.
+🌱 Salesforce Developer. Apex, Lightning Web Components, Lightning Web Runtime, JavaScript, HTML, and Flows.
 <!-- 🔭 I’m currently working on the [DGI-Portfolio Project](https://github.com/ManoolK/DGI-Portfolio). -->
 
-⚡ Fun fact: Outside of my passion for Salesforce, I enjoy hiking, traveling, and board gaming.
+⚡ Fun fact: Outside of my passion for Salesforce, I enjoy hiking, skiing, traveling, and board gaming.
 
 # ☁ Salesforce Credentials
 <div align="center">
@@ -15,21 +15,25 @@ I am a Certified Salesforce Professional with a passion for efficiency and solvi
 	<img src='/assets/administrator.png' height='100' alt="Administrator">
 	<img src='/assets/Developer_Super_Set.png' height='100' alt="Developer Super Set">
 </div>
+<div align="center">
+	<img src='/assets/CCA - Dark Background - Alumni.png' height='100' alt="Cloud Code Academy Alumni">
+</div>
 
 # Technologies that I use
 
 ## Languages & Frameworks:
 - Apex
 - JavaScript
+- LWC/LWR
+- HTML 5
+- CSS/SASS
 - Python
 	- PyTorch
 	- Pandas
-- HTML 5
-- CSS/SASS
 
 ## Database
-- SQL
 - SOQL/SOSL
+- SQL
 - MySQL
 - Postgres
 
